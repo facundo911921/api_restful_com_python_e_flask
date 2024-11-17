@@ -1,10 +1,10 @@
 # Backend API - Flask & SQLAlchemy
 
-Este projeto implementa uma API RESTful simples usando **Flask**, **SQLAlchemy**, e **Marshmallow**. A aplicação permite o gerenciamento de dados de uma base de clientes em um banco de dados relacional, com operações básicas de CRUD (Criar, Ler, Atualizar e Deletar).
+Este projeto implementa uma API RESTful usando **Flask**, **SQLAlchemy**, e **Marshmallow**. A aplicação permite o gerenciamento de dados de uma base de tasks em um banco de dados relacional, com operações de CRUD (Criar, Ler, Atualizar e Deletar).
 
 ## Funcionalidades
 
-- **CRUD completo** para gerenciamento de clientes.
+- **CRUD completo** para gerenciamento de tasks.
 - **Serialização de dados** com Marshmallow.
 - **Persistência de dados** utilizando **SQLAlchemy**.
 - **Versionamento e controle de código** com **Git**.
